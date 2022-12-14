@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hhotdong
 - 👀 I’m interested in game programming.
-- 🌱 I’m currently learning Unity, C, C#, C++.
+- 🌱 I’m currently learning Unity, C#, C, C++.
 - 📫 How to reach me: hhotdong@gmail.com
 
 <!---
